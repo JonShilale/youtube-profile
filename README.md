@@ -1,2 +1,3 @@
 # youtube-profile
-Example profile site for a Youtuber that pulls their videos in from their channel using the Youtube API
+
+This Node.js project has been created by Yeoman and is powered by Metalsmith.
