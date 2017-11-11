@@ -20,7 +20,7 @@
 @import "input-group";
 @import "custom-forms";
 @import "nav";
-@import "navbar";
+@import "navbar"; 
 @import "card";
 @import "breadcrumb";
 @import "pagination";
@@ -40,4 +40,10 @@
 // Project specific styles
 body {
   background: #eee;
+}
+#videoDiv {
+  float: right;
+}
+#playlistDiv {
+  float: left;
 }

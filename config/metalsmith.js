@@ -31,7 +31,7 @@ module.exports = {
     }],
   },
   sitemap: {
-    hostname: '',
+    hostname: 'https://www.example.com',
     omitExtension: true,
     omitIndex: true,
   },
